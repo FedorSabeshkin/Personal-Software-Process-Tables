@@ -2,6 +2,7 @@
 Sample tables for practice in PSP - Personal Software Process
 
 ## Tables
+### RU
 [PSP 0.1](https://docs.google.com/spreadsheets/d/1DnXrBCeMi8Jo-T3JV50xJIunOZwv7CzqhpB-xUDr7ls/edit?usp=sharing) calculate time, lines of code, errors.
 
 ## About PSP
